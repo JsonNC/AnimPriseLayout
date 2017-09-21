@@ -5,7 +5,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:scaleType="centerCrop"
     app:isCircle="true"
-    app:ringColor="#ffeeeeee"
+    app:ringColor="#fff"
     app:ringWidth="2dp">
 
 </com.animpriselayout.RoundAngleImageView>
