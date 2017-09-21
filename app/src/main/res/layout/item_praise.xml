@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.animpriselayout.RoundAngleImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="40dp"
+    android:layout_height="40dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:scaleType="centerCrop"
+    app:isCircle="true"
+    app:ringColor="#ffeeeeee"
+    app:ringWidth="2dp">
+
+</com.animpriselayout.RoundAngleImageView>

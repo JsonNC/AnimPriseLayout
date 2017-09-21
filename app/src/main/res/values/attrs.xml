@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundAngleImageView">
+        <attr name="roundWidth" format="dimension" />
+        <attr name="roundHeight" format="dimension" />
+        <attr name="isCircle" format="boolean" />
+        <attr name="ringWidth" format="dimension" />
+        <attr name="ringColor" format="color" />
+
+        <attr name="radius_LB" format="dimension" />
+        <attr name="radius_LT" format="dimension" />
+        <attr name="radius_RB" format="dimension" />
+        <attr name="radius_RT" format="dimension" />
+        <attr name="radius" format="dimension" />
+    </declare-styleable>
+
+</resources>
